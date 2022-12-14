@@ -1,6 +1,6 @@
 # TestingPlayground
 I test github here!
 
-'''C#
+```C#
 Console.WriteLine("Hello!")
-'''
+```
