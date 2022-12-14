@@ -2,5 +2,13 @@
 I test github here!
 
 ```C#
-Console.WriteLine("Hello!")
+User user = new User();
+if (User.coding == true) 
+{
+  Code++;
+}
+else
+{
+  User.coding = true;
+}
 ```
